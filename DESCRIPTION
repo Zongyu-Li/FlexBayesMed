@@ -1,0 +1,19 @@
+Package: FlexBayesMed
+Type: Package
+Title: Modeling Skewed and Heavy-Tailed Errors in Bayesian Mediation Analysis
+Version: 0.1.0
+Authors@R:
+    person("Zongyu", "Li",
+           email = "zli37@nd.edu",
+           role = c("aut", "cre"))
+Description: Flexible Bayesian mediation models, including simulation from
+    the centered two-piece t-distribution (CTPT). Provides methods
+    for skewed and heavy-tailed error modeling in a mediation framework.
+License: GPL-3
+Encoding: UTF-8
+RoxygenNote: 7.3.2
+Imports:
+    rstan,
+    Rmpfr,
+    bridgesampling
+Roxygen: list(markdown = TRUE)
