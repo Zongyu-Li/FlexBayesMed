@@ -1,5 +1,11 @@
 # Modelling Skewed and Heavy-Tailed Errors in Bayesian Mediation Analysis
 
+<p align="center">
+  <img src="FlexBayesMed/img/left.png" alt="Conditional total effect — plot 1" width="45%">
+  <img src="FlexBayesMed/img/right.png" alt="Conditional total effect — plot 2" width="45%">
+</p>
+
+
 This repository contains all material needed to reproduce the results reported in **“Modelling Skewed and Heavy-Tailed Errors in Bayesian Mediation Analysis”** (Li, Steel, & Zhang, 2025).
 
 The methods described in the article are implemented in the R package **_FlexBayesMed_**. The package is under active development; new features—such as one-line estimation of complex moderated-mediation models—are added regularly. Future updates will appear here. Feel free to contact the maintainer with questions or suggestions.
