@@ -1,8 +1,8 @@
 # Modelling Skewed and Heavy-Tailed Errors in Bayesian Mediation Analysis
 
 <p align="center">
-  <img src="FlexBayesMed/img/left.png" alt="Conditional total effect — plot 1" width="45%">
-  <img src="FlexBayesMed/img/right.png" alt="Conditional total effect — plot 2" width="45%">
+  <img src="/img/left.png" alt="Conditional total effect — plot 1" width="45%">
+  <img src="/img/right.png" alt="Conditional total effect — plot 2" width="45%">
 </p>
 
 
