@@ -47,6 +47,15 @@ Here is a brief description of the repository structure.
 > **Tip**  
 > You can already fit complex models—such as moderated mediation—by applying `flex_mr()` to each regression component separately. See the worked example in `demo/`.
 
+## Dependencies
+
+**_FlexBayesMed_** relies on three core packages:
+
+| Package | Purpose |
+|---------|---------|
+| **rstan** | Fits models with HMC/NUTS |
+| **bridgesampling** | Computes marginal likelihoods & Bayes factors based on the Stan objects|
+| **Rmpfr** | Provides high-precision arithmetic |
 
 
 ## How to cite
