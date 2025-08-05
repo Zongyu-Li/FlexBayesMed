@@ -19,7 +19,7 @@ Here is a brief description of the repository structure.
 | `FlexBayesMed/` | Source code for the R package _FlexBayesMed_.                               |
 | `papercode/`    | Scripts for reproducing analyses and figures in Li, Steel, & Zhang (2025). |
 | `document/`     | PDF reference manual generated from the package documentation.              |
-| `demo/`         | User guide (html) plus synthetic example data sets.                          |
+| `demo/`         | User guide (html) for the R package _FlexBayesMed_.                          |
 | `data/`         | Datasets used in the case study in the paper.               |
 
 
