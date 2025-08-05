@@ -19,8 +19,8 @@ Here is a brief description of the repository structure.
 | `FlexBayesMed/` | Source code for the R package _FlexBayesMed_.                               |
 | `papercode/`    | Scripts for reproducing analyses and figures in Li, Steel, & Zhang (2025). |
 | `document/`     | PDF reference manual generated from the package documentation.              |
-| `demo/`         | User guide (PDF) plus synthetic example data sets.                          |
-| `data/`         | Datasets used in the case study in the paper and in the demo.               |
+| `demo/`         | User guide (html) plus synthetic example data sets.                          |
+| `data/`         | Datasets used in the case study in the paper.               |
 
 
 ## Key features of **_FlexBayesMed_**
@@ -45,7 +45,7 @@ Here is a brief description of the repository structure.
    One-line wrappers for a range of moderated-mediation models and other extensions are in active development.
 
 > **Tip**  
-> You can already fit complex models—such as moderated mediation—by applying `flex_mr()` to each regression component separately. See the worked example in `demo/`.
+> You can already fit complex models—such as moderated mediation—by applying `flex_mr()` to each regression component separately.
 
 ## Dependencies
 
