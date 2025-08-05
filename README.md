@@ -26,7 +26,7 @@ Here is a brief description of the repository structure.
 ## Key features of **_FlexBayesMed_**
 
 1. **Distribution utilities**  
-   * Compute the PDF, CDF, quantiles, and Fisher's moment coefficients of skewness of the *centred two-piece Student-t* distribution.  
+   * Evaluate the mode, variance, PDF, CDF, quantiles, and Fisher's moment coefficients of skewness of the *centred two-piece Student-t* distribution.  
    * Draw random samples from the same distribution.
 
 2. **Flexible linear regression** — [`flex_mr()`]  
